@@ -1,12 +1,7 @@
 # Skills
-# Donut design
-- skill: Donut design
-  description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
 
-# Craft beer brewing
-- skill: Craft beer brewing
-  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
+- skill: Programação
+  description: Tecnologias:<ul><li>PHP</li><li>Laravel</li><li>Javascript</li><li>Node.JS</li><li>HTML</li><li>CSS</li><li>Java</li><li>Ruby</li><li>Ruby on Rails</li><li>Python</li><li>MySQL</li><li>MongoDB</li><li>Metodologias Ágeis</li><li>Git</li></ul>
 
-# Family leadership
-- skill: Family leadership
-  description: Bread winning, conflict resolution, couch inspection, TV longevity testing
+- skill: Inglês
+  description: Nível avançado/fluente<ul><li>Classificação C1 no exame TOEFL ITP</li><li>Vivência de dois meses na Nova Zelândia</li></ul>
